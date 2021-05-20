@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ChiaHarvestChecker.iml" filepath="$PROJECT_DIR$/.idea/modules/ChiaHarvestChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ChiaHarvestChecker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ChiaHarvestChecker.app.iml" />
     </modules>
   </component>
 </project>
